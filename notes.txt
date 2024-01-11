@@ -1,0 +1,42 @@
+
+VARIABLES
+* as the name suggests, its contents can be varible i.e "changed".
+*stored in RAM.
+* We need to tell computer what type of info.(data types) to be stored and then give it a name.
+    i.e we can store lots of diffenent types of data 
+    * keyword-> data types
+
+CHAR Data type
+* it store 2 byte as it allows to store unicode character
+
+STRING
+*not a primitive data type. its actually a class.
+* sequence of character. large no. of character.
+* with help of "+" operator we can append string in java.
+*
+
+OPERATORS
+*Special symbols(+,-,*,/,%) whch perform specific operation b\w operants.
+* operants-> objects manipulated by operator.
+modulus operator(%)-> gives remainder.
+* abbreviation operator: 
+   exe:-> result++;
+   result--;
+   result+=2;
+   result/=2;
+
+EXPRESSIONS
+int num=50*78+10 ; //
+    |___________|-> is a exppression except datatype and semicolon.
+In case of control flow statement, method->expressio are component in b/w brackets ().
+
+CODE BLOCK
+* Variable created inside the code blocks connot be accessed from outside.     
+
+Method OVERLOADING
+* Methods with same name but with different parameters.
+*changing the datatype of return type of methods will not work.
+* we need to make unique in terms of parameters for method OVERLOADING.
+
+READING USER INPUT
+*

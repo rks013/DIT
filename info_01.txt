@@ -1,0 +1,15 @@
+COMPILE java CODE:->>                    javac cs_01_patternSearch.java
+EXECUTE class file that is created:->    java patternSearch
+
+/* to covert String to Int */
+String str = "1";
+int num = Integer.parseInt(str);
+
+/* to covert character to Int */
+ '0' :->is called the NULL character, whose ASCII value is zero.
+ char ch ='3';
+ int a = ch - '0';
+
+/* to get class of primitive */
+int num ;
+System.out.println(  ((Object)num) .getClass().getSimpleName());
